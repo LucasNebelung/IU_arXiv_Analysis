@@ -1,0 +1,7 @@
+# ignore original data.json  
+
+*.json
+
+# ignore df_clean.pkl
+
+df_clean.pkl
