@@ -5,3 +5,7 @@
 # ignore df_clean.pkl
 
 df_clean.pkl
+
+# ignore embeddings_subset_100000.npy
+
+embeddings_subset_100000.npy
